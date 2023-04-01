@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="hr.drigler.viva_wallet_pos" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="16" />
+
+    <application>
+        <activity
+            android:name="hr.drigler.viva_wallet_pos.ResponseActivity"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name=".ResponseActivity" />
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <!-- CALLBACK SCHEME -->
+                <data
+                    android:host="result"
+                    android:scheme="${applicationId}_cb" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

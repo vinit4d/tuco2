@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "897969362973",
+    "project_id": "tuco2-fb8b5",
+    "storage_bucket": "tuco2-fb8b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897969362973:android:d41206d5514a9897b3cef4",
+        "android_client_info": {
+          "package_name": "com.tuco2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897969362973-21ko2j1iv8oana5peunrm3unjgkt8chc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRIhC7PfxgTwiDYes4bTkfiCBya1RS2RU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897969362973-21ko2j1iv8oana5peunrm3unjgkt8chc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,29 @@
+com.tuco2.app-jetified-window-java-1.0.0-beta04-0 /Users/vinits/.gradle/caches/transforms-3/006d93cd422dbc43e89591147c2de572/transformed/jetified-window-java-1.0.0-beta04/res
+com.tuco2.app-jetified-play-services-base-18.0.1-1 /Users/vinits/.gradle/caches/transforms-3/082fa8f1e076fd76c98f4d760b4e67b1/transformed/jetified-play-services-base-18.0.1/res
+com.tuco2.app-core-1.8.0-2 /Users/vinits/.gradle/caches/transforms-3/270e9501dde0430a83746f97bf9ab544/transformed/core-1.8.0/res
+com.tuco2.app-jetified-play-services-basement-18.0.0-3 /Users/vinits/.gradle/caches/transforms-3/5ff4a353de7064fc161fb566343d6916/transformed/jetified-play-services-basement-18.0.0/res
+com.tuco2.app-lifecycle-runtime-2.3.1-4 /Users/vinits/.gradle/caches/transforms-3/76da31ad033c53187dd7271282d0f7d2/transformed/lifecycle-runtime-2.3.1/res
+com.tuco2.app-jetified-annotation-experimental-1.1.0-5 /Users/vinits/.gradle/caches/transforms-3/8965c941cf4bee4d72541b965c7c9d39/transformed/jetified-annotation-experimental-1.1.0/res
+com.tuco2.app-jetified-play-services-maps-18.1.0-6 /Users/vinits/.gradle/caches/transforms-3/a0e34175b89fa528462076cc4208822f/transformed/jetified-play-services-maps-18.1.0/res
+com.tuco2.app-jetified-window-1.0.0-beta04-7 /Users/vinits/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/res
+com.tuco2.app-debug-8 /Users/vinits/Documents/Flutter Dev/tuco2/android/app/src/debug/res
+com.tuco2.app-main-9 /Users/vinits/Documents/Flutter Dev/tuco2/android/app/src/main/res
+com.tuco2.app-pngs-10 /Users/vinits/Documents/Flutter Dev/tuco2/build/app/generated/res/pngs/debug
+com.tuco2.app-resValues-11 /Users/vinits/Documents/Flutter Dev/tuco2/build/app/generated/res/resValues/debug
+com.tuco2.app-rs-12 /Users/vinits/Documents/Flutter Dev/tuco2/build/app/generated/res/rs/debug
+com.tuco2.app-mergeDebugResources-13 /Users/vinits/Documents/Flutter Dev/tuco2/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.tuco2.app-mergeDebugResources-14 /Users/vinits/Documents/Flutter Dev/tuco2/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.tuco2.app-merged_res-15 /Users/vinits/Documents/Flutter Dev/tuco2/build/app/intermediates/merged_res/debug
+com.tuco2.app-packaged_res-16 /Users/vinits/Documents/Flutter Dev/tuco2/build/connectivity_plus/intermediates/packaged_res/debug
+com.tuco2.app-packaged_res-17 /Users/vinits/Documents/Flutter Dev/tuco2/build/country_codes/intermediates/packaged_res/debug
+com.tuco2.app-packaged_res-18 /Users/vinits/Documents/Flutter Dev/tuco2/build/flutter_native_splash/intermediates/packaged_res/debug
+com.tuco2.app-packaged_res-19 /Users/vinits/Documents/Flutter Dev/tuco2/build/flutter_plugin_android_lifecycle/intermediates/packaged_res/debug
+com.tuco2.app-packaged_res-20 /Users/vinits/Documents/Flutter Dev/tuco2/build/flutter_sim_country_code/intermediates/packaged_res/debug
+com.tuco2.app-packaged_res-21 /Users/vinits/Documents/Flutter Dev/tuco2/build/google_api_headers/intermediates/packaged_res/debug
+com.tuco2.app-packaged_res-22 /Users/vinits/Documents/Flutter Dev/tuco2/build/google_maps_flutter_android/intermediates/packaged_res/debug
+com.tuco2.app-packaged_res-23 /Users/vinits/Documents/Flutter Dev/tuco2/build/image_picker_android/intermediates/packaged_res/debug
+com.tuco2.app-packaged_res-24 /Users/vinits/Documents/Flutter Dev/tuco2/build/integration_test/intermediates/packaged_res/debug
+com.tuco2.app-packaged_res-25 /Users/vinits/Documents/Flutter Dev/tuco2/build/package_info_plus/intermediates/packaged_res/debug
+com.tuco2.app-packaged_res-26 /Users/vinits/Documents/Flutter Dev/tuco2/build/path_provider_android/intermediates/packaged_res/debug
+com.tuco2.app-packaged_res-27 /Users/vinits/Documents/Flutter Dev/tuco2/build/url_launcher_android/intermediates/packaged_res/debug
+com.tuco2.app-packaged_res-28 /Users/vinits/Documents/Flutter Dev/tuco2/build/viva_wallet_pos/intermediates/packaged_res/debug

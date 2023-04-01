@@ -1,0 +1,45 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="hr.drigler.viva_wallet_pos" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="16"
+6-->/Users/vinits/.pub-cache/hosted/pub.dev/viva_wallet_pos-0.0.2/android/src/main/AndroidManifest.xml
+7        android:targetSdkVersion="16" />
+7-->/Users/vinits/.pub-cache/hosted/pub.dev/viva_wallet_pos-0.0.2/android/src/main/AndroidManifest.xml
+8
+9    <application>
+9-->/Users/vinits/.pub-cache/hosted/pub.dev/viva_wallet_pos-0.0.2/android/src/main/AndroidManifest.xml:3:5-16:19
+10        <activity
+10-->/Users/vinits/.pub-cache/hosted/pub.dev/viva_wallet_pos-0.0.2/android/src/main/AndroidManifest.xml:4:9-15:20
+11            android:name="hr.drigler.viva_wallet_pos.ResponseActivity"
+11-->/Users/vinits/.pub-cache/hosted/pub.dev/viva_wallet_pos-0.0.2/android/src/main/AndroidManifest.xml:5:13-45
+12            android:exported="true" >
+12-->/Users/vinits/.pub-cache/hosted/pub.dev/viva_wallet_pos-0.0.2/android/src/main/AndroidManifest.xml:6:13-36
+13            <intent-filter>
+13-->/Users/vinits/.pub-cache/hosted/pub.dev/viva_wallet_pos-0.0.2/android/src/main/AndroidManifest.xml:7:13-14:29
+14                <action android:name=".ResponseActivity" />
+14-->/Users/vinits/.pub-cache/hosted/pub.dev/viva_wallet_pos-0.0.2/android/src/main/AndroidManifest.xml:8:17-59
+14-->/Users/vinits/.pub-cache/hosted/pub.dev/viva_wallet_pos-0.0.2/android/src/main/AndroidManifest.xml:8:25-57
+15                <action android:name="android.intent.action.VIEW" />
+15-->/Users/vinits/.pub-cache/hosted/pub.dev/viva_wallet_pos-0.0.2/android/src/main/AndroidManifest.xml:9:17-68
+15-->/Users/vinits/.pub-cache/hosted/pub.dev/viva_wallet_pos-0.0.2/android/src/main/AndroidManifest.xml:9:25-66
+16
+17                <category android:name="android.intent.category.DEFAULT" />
+17-->/Users/vinits/.pub-cache/hosted/pub.dev/viva_wallet_pos-0.0.2/android/src/main/AndroidManifest.xml:10:17-75
+17-->/Users/vinits/.pub-cache/hosted/pub.dev/viva_wallet_pos-0.0.2/android/src/main/AndroidManifest.xml:10:27-73
+18                <category android:name="android.intent.category.BROWSABLE" />
+18-->/Users/vinits/.pub-cache/hosted/pub.dev/viva_wallet_pos-0.0.2/android/src/main/AndroidManifest.xml:11:17-77
+18-->/Users/vinits/.pub-cache/hosted/pub.dev/viva_wallet_pos-0.0.2/android/src/main/AndroidManifest.xml:11:27-75
+19                <!-- CALLBACK SCHEME -->
+20                <data
+20-->/Users/vinits/.pub-cache/hosted/pub.dev/viva_wallet_pos-0.0.2/android/src/main/AndroidManifest.xml:13:17-83
+21                    android:host="result"
+21-->/Users/vinits/.pub-cache/hosted/pub.dev/viva_wallet_pos-0.0.2/android/src/main/AndroidManifest.xml:13:60-81
+22                    android:scheme="${applicationId}_cb" />
+22-->/Users/vinits/.pub-cache/hosted/pub.dev/viva_wallet_pos-0.0.2/android/src/main/AndroidManifest.xml:13:23-59
+23            </intent-filter>
+24        </activity>
+25    </application>
+26
+27</manifest>

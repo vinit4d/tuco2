@@ -1,0 +1,57 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/vinits/.pub-cache/hosted/pub.dev/viva_wallet_pos-0.0.2/android/src/main/AndroidManifest.xml:1:1-17:12
+INJECTED from /Users/vinits/.pub-cache/hosted/pub.dev/viva_wallet_pos-0.0.2/android/src/main/AndroidManifest.xml:1:1-17:12
+INJECTED from /Users/vinits/.pub-cache/hosted/pub.dev/viva_wallet_pos-0.0.2/android/src/main/AndroidManifest.xml:1:1-17:12
+	package
+		ADDED from /Users/vinits/.pub-cache/hosted/pub.dev/viva_wallet_pos-0.0.2/android/src/main/AndroidManifest.xml:2:3-39
+		INJECTED from /Users/vinits/.pub-cache/hosted/pub.dev/viva_wallet_pos-0.0.2/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/vinits/.pub-cache/hosted/pub.dev/viva_wallet_pos-0.0.2/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/vinits/.pub-cache/hosted/pub.dev/viva_wallet_pos-0.0.2/android/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /Users/vinits/.pub-cache/hosted/pub.dev/viva_wallet_pos-0.0.2/android/src/main/AndroidManifest.xml:3:5-16:19
+activity#hr.drigler.viva_wallet_pos.ResponseActivity
+ADDED from /Users/vinits/.pub-cache/hosted/pub.dev/viva_wallet_pos-0.0.2/android/src/main/AndroidManifest.xml:4:9-15:20
+	android:exported
+		ADDED from /Users/vinits/.pub-cache/hosted/pub.dev/viva_wallet_pos-0.0.2/android/src/main/AndroidManifest.xml:6:13-36
+	android:name
+		ADDED from /Users/vinits/.pub-cache/hosted/pub.dev/viva_wallet_pos-0.0.2/android/src/main/AndroidManifest.xml:5:13-45
+intent-filter#action:name:.ResponseActivity+action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:result+data:scheme:${applicationId}_cb
+ADDED from /Users/vinits/.pub-cache/hosted/pub.dev/viva_wallet_pos-0.0.2/android/src/main/AndroidManifest.xml:7:13-14:29
+action#hr.drigler.viva_wallet_pos.ResponseActivity
+ADDED from /Users/vinits/.pub-cache/hosted/pub.dev/viva_wallet_pos-0.0.2/android/src/main/AndroidManifest.xml:8:17-59
+	android:name
+		ADDED from /Users/vinits/.pub-cache/hosted/pub.dev/viva_wallet_pos-0.0.2/android/src/main/AndroidManifest.xml:8:25-57
+action#android.intent.action.VIEW
+ADDED from /Users/vinits/.pub-cache/hosted/pub.dev/viva_wallet_pos-0.0.2/android/src/main/AndroidManifest.xml:9:17-68
+	android:name
+		ADDED from /Users/vinits/.pub-cache/hosted/pub.dev/viva_wallet_pos-0.0.2/android/src/main/AndroidManifest.xml:9:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/vinits/.pub-cache/hosted/pub.dev/viva_wallet_pos-0.0.2/android/src/main/AndroidManifest.xml:10:17-75
+	android:name
+		ADDED from /Users/vinits/.pub-cache/hosted/pub.dev/viva_wallet_pos-0.0.2/android/src/main/AndroidManifest.xml:10:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /Users/vinits/.pub-cache/hosted/pub.dev/viva_wallet_pos-0.0.2/android/src/main/AndroidManifest.xml:11:17-77
+	android:name
+		ADDED from /Users/vinits/.pub-cache/hosted/pub.dev/viva_wallet_pos-0.0.2/android/src/main/AndroidManifest.xml:11:27-75
+data
+ADDED from /Users/vinits/.pub-cache/hosted/pub.dev/viva_wallet_pos-0.0.2/android/src/main/AndroidManifest.xml:13:17-83
+	android:host
+		ADDED from /Users/vinits/.pub-cache/hosted/pub.dev/viva_wallet_pos-0.0.2/android/src/main/AndroidManifest.xml:13:60-81
+	android:scheme
+		ADDED from /Users/vinits/.pub-cache/hosted/pub.dev/viva_wallet_pos-0.0.2/android/src/main/AndroidManifest.xml:13:23-59
+uses-sdk
+INJECTED from /Users/vinits/.pub-cache/hosted/pub.dev/viva_wallet_pos-0.0.2/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/vinits/.pub-cache/hosted/pub.dev/viva_wallet_pos-0.0.2/android/src/main/AndroidManifest.xml
+INJECTED from /Users/vinits/.pub-cache/hosted/pub.dev/viva_wallet_pos-0.0.2/android/src/main/AndroidManifest.xml
+INJECTED from /Users/vinits/.pub-cache/hosted/pub.dev/viva_wallet_pos-0.0.2/android/src/main/AndroidManifest.xml
+INJECTED from /Users/vinits/.pub-cache/hosted/pub.dev/viva_wallet_pos-0.0.2/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/vinits/.pub-cache/hosted/pub.dev/viva_wallet_pos-0.0.2/android/src/main/AndroidManifest.xml
+		ADDED from /Users/vinits/.pub-cache/hosted/pub.dev/viva_wallet_pos-0.0.2/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/vinits/.pub-cache/hosted/pub.dev/viva_wallet_pos-0.0.2/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/vinits/.pub-cache/hosted/pub.dev/viva_wallet_pos-0.0.2/android/src/main/AndroidManifest.xml
+		ADDED from /Users/vinits/.pub-cache/hosted/pub.dev/viva_wallet_pos-0.0.2/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/vinits/.pub-cache/hosted/pub.dev/viva_wallet_pos-0.0.2/android/src/main/AndroidManifest.xml
